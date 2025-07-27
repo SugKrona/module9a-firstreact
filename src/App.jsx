@@ -7,14 +7,14 @@ function App() {
       <UserProfile
         name="Sarah Johnson"
         bio="Full-stack developer passionate about creating user-friendly applications."
-        profileImage="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face"
+        profileImage="/images/Sarah.png"
       />
 
       {/* Second Profile: Giovanni Stefan */}
       <UserProfile
         name="Giovanni Stefan"
         bio="Data scientist creating intelligent systems with a focus on deep learning."
-        profileImage="https://images.unsplash.com/photo-1547425260-76bc4e198089?w=150&h=150&fit=crop&crop=face"
+        profileImage="/images/Giovanni.png"
       />
     </div>
   );
